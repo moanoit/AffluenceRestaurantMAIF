@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Affluence Restaurant MAIF</string>
+    <string name="text_refresh">Rafraîchir</string>
+    <string name="text_nbPlacesOccupees">Nombre de places occupées</string>
+    <string name="text_nbPlacesTotales">Nombre total de places</string>
+    <string name="text_tauxOccupation">Taux d\'occupation</string>
+    <string name="text_nbPlacesLibres">Nombre de places libres</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MAIF Restaurant Affluency</string>
+    <string name="text_nbPlacesOccupees">Occupied seats</string>
+    <string name="text_nbPlacesTotales">Total seats</string>
+    <string name="text_refresh">Refresh</string>
+    <string name="text_tauxOccupation">Occupation rate</string>
+    <string name="text_nbPlacesLibres">Free seats</string>
+</resources>
