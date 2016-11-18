@@ -5,4 +5,6 @@
     <string name="text_nbPlacesTotales">Nombre total de places</string>
     <string name="text_tauxOccupation">Taux d\'occupation</string>
     <string name="text_nbPlacesLibres">Nombre de places libres</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
 </resources>

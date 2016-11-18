@@ -154,8 +154,10 @@ public class AffluenceActivity extends AppCompatActivity {
                             // add many colors
                             ArrayList<Integer> colors = new ArrayList<Integer>();
 
-                            for (int c : ColorTemplate.MATERIAL_COLORS)
-                                colors.add(c);
+                            colors.add(Color.RED);
+                            colors.add(Color.GREEN);
+                            /*for (int c : ColorTemplate.MATERIAL_COLORS)
+                                colors.add(c);*/
 
                             PieDataSet dataSet = new PieDataSet(pieEntries, null); // add entries to dataset
                             dataSet.setColors(colors);
